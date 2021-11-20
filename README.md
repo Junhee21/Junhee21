@@ -1,4 +1,4 @@
-## Hi, My name is Junhee Won 👋
+## Hi, my name is Junhee Won 👋
 
 
 ### [백준(BOJ)](https://www.acmicpc.net/user/wwoon63)
